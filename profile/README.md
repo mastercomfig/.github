@@ -1,10 +1,10 @@
-![mastercomfig](https://www.mastercomfig.com/img/mastercomfig_banner.png)
+![mastercomfig](https://comfig.app/img/mastercomfig_banner.png)
 
 # mastercomfig
 
 a modern customization framework
 
-* [web app](https://mastercomfig.com/)
-* [docs](https://docs.mastercomfig.com/)
-* [support me!](https://docs.mastercomfig.com/page/support_me/)
-* [discord server](https://discord.gg/CuPb2zV)
+* [web app](https://comfig.app/)
+* [docs](https://docs.comfig.app/)
+* [support me!](https://docs.comfig.app/page/support_me/)
+* [discord server](https://discord.gg/mastercomfig-389089828249010188)
